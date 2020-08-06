@@ -136,3 +136,4 @@ dmypy.json
 
 # Data Directory
 data/
+images/capcha_*.png
